@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hoc081098:ViewBindingDelegate:1.4.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ee7524a22671b82a35b0a8263bc5ee3e/transformed/ViewBindingDelegate-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ee7524a22671b82a35b0a8263bc5ee3e/transformed/ViewBindingDelegate-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hoc081098/ViewBindingDelegate/1.4.0/6e5795dc6156edb9be5d238b1f1fcb54feeb3d6f/ViewBindingDelegate-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.hoc081098:FlowExt-jvm:0.4.0" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.hoc081098/FlowExt-jvm/0.4.0/9f75236c9307bed24b400c51d3187b40de64db28/FlowExt-jvm-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.hoc081098/FlowExt-jvm/0.4.0/8bd1dfba34790550d6446fe5670bdc99f6725032/FlowExt-jvm-0.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.hoc081098/FlowExt-jvm/0.4.0/911ff1a94f20f72565f7c6377cc90dccdf772600/FlowExt-jvm-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

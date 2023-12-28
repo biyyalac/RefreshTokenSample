@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.crypto.tink:tink-android:1.7.0" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.crypto.tink/tink-android/1.7.0/cbc69fa3de445f889d9da497acee37892388106d/tink-android-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.crypto.tink/tink-android/1.7.0/fca56b82461c7f656572c3a88be1d029f9339052/tink-android-1.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.crypto.tink/tink-android/1.7.0/c253e99fbe314f9d8780c7b397923bdc0c8166de/tink-android-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
